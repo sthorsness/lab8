@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './cat.jpeg';
+import logo from './cat.jpg';
 import './App.css';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         
         </a>
       </header>
     </div>
